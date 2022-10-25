@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:3:5-56
+		INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml
+		INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:5:5-30
+		INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml
+		INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:4:5-28
+		INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml
+		INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml
+uses-sdk
+ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:9:9-38
+		INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml
+		INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:8:9-35
+		INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml
+		INJECTED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:11:22-64
+application
+ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:13:5-30:19
+	android:label
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:14:9-35
+activity#com.amazonaws.demo.androidpubsubwebsocket.PubSubActivity
+ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:18:13-84
+activity#com.amazonaws.demo.androidpubsubwebsocket.MapActivity
+ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:21:13-81
+activity#com.amazonaws.demo.androidpubsubwebsocket.MainActivity
+ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:23:19-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/AndroidManifest.xml:27:27-74
