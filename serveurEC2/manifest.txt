@@ -1,0 +1,3 @@
+Main-Class: serveur.Serveur
+Class-Path: lib\ejml-simple-0.41.jar lib\ejml-core-0.41.jar lib\ejml-cdense-0.41.jar lib\ejml-ddense-0.41.jar lib\ejml-dsparse-0.41.jar lib\ejml-fdense-0.41.jar lib\ejml-zdense-0.41.jar
+
